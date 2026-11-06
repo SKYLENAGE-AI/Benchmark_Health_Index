@@ -1,0 +1,9 @@
+comparison_name,comparison_label,matching_strategy,metric,estimate,ci_95_lower,ci_95_upper,requested_resamples,valid_resamples,skipped_resamples,seed
+original_submission_vs_new_june,Original submission vs new June snapshot,exact_name,spearman_rho,0.9848065528058556,0.9723032880508155,0.9914212408475862,2000,2000,0,20260726
+original_submission_vs_new_june,Original submission vs new June snapshot,exact_name,kendall_tau_b,0.9159381898454746,0.887465415740329,0.9393939393939393,2000,2000,0,20260726
+original_submission_vs_new_june,Original submission vs new June snapshot,exact_name,median_absolute_rank_percentile_change,0.020562171143727492,0.014608141788978068,0.025581556355580126,2000,2000,0,20260726
+original_submission_vs_new_june,Original submission vs new June snapshot,exact_name,median_absolute_BHI_change,0.006443366416118812,0.005491400642594624,0.008358402953425492,2000,2000,0,20260726
+original_submission_vs_new_june,Original submission vs new June snapshot,conservative_alias_adjusted,spearman_rho,0.9849344204182914,0.9724833011013916,0.991082069563677,2000,2000,0,20260726
+original_submission_vs_new_june,Original submission vs new June snapshot,conservative_alias_adjusted,kendall_tau_b,0.9155425219941349,0.8877538108855864,0.9376177677024381,2000,2000,0,20260726
+original_submission_vs_new_june,Original submission vs new June snapshot,conservative_alias_adjusted,median_absolute_rank_percentile_change,0.020562171143727492,0.01426197729160894,0.025581556355580126,2000,2000,0,20260726
+original_submission_vs_new_june,Original submission vs new June snapshot,conservative_alias_adjusted,median_absolute_BHI_change,0.006448526758613071,0.005558160386524069,0.008358402953425492,2000,2000,0,20260726

@@ -1,0 +1,31 @@
+Analysis_Set,Outcome,Method,N,Coefficient,P_Value_Two_Sided,Bootstrap_CI_95_Lower,Bootstrap_CI_95_Upper,Valid_Bootstrap_Resamples,Interpretation,Window_Months
+age_le_6_months,NUsage,Pearson,14,0.607299075752,0.0212583833437,0.162660771219,0.827678770282,10000,Strong positive association; statistically distinguishable from zero at the 0.05 level.,6
+age_le_6_months,NUsage,Spearman,14,0.617242859483,0.0186880740317,0.0678585781965,0.880277303236,10000,Strong positive association; statistically distinguishable from zero at the 0.05 level.,6
+age_le_6_months,SImp,Pearson,14,0.530695173457,0.0508838612116,-0.0312975287929,0.814976288807,10000,Strong positive association; not statistically distinguishable from zero at the 0.05 level.,6
+age_le_6_months,SImp,Spearman,14,0.411441393086,0.143847661267,-0.223520780595,0.800920171589,10000,Moderate positive association; not statistically distinguishable from zero at the 0.05 level.,6
+age_le_6_months,BHI,Pearson,14,0.68328300805,0.00706392224817,0.384811184119,0.894017982744,10000,Strong positive association; statistically distinguishable from zero at the 0.05 level.,6
+age_le_6_months,BHI,Spearman,14,0.704070833089,0.00494399875661,0.208047882963,0.959278316293,10000,Strong positive association; statistically distinguishable from zero at the 0.05 level.,6
+age_le_9_months,NUsage,Pearson,25,0.110895624338,0.597691369962,-0.176333299652,0.378855759717,10000,Weak positive association; not statistically distinguishable from zero at the 0.05 level.,9
+age_le_9_months,NUsage,Spearman,25,0.103426746578,0.622732539609,-0.336111347033,0.510594905684,10000,Weak positive association; not statistically distinguishable from zero at the 0.05 level.,9
+age_le_9_months,SImp,Pearson,25,0.095309702212,0.650415464508,-0.242428331993,0.418715555241,10000,Negligible positive association; not statistically distinguishable from zero at the 0.05 level.,9
+age_le_9_months,SImp,Spearman,25,0.0808003137917,0.701017737363,-0.347381780509,0.497594986276,10000,Negligible positive association; not statistically distinguishable from zero at the 0.05 level.,9
+age_le_9_months,BHI,Pearson,25,0.116324045633,0.579764323299,-0.273715693748,0.478781668002,10000,Weak positive association; not statistically distinguishable from zero at the 0.05 level.,9
+age_le_9_months,BHI,Spearman,25,0.0723355190135,0.731138371155,-0.351189914604,0.489133600377,10000,Negligible positive association; not statistically distinguishable from zero at the 0.05 level.,9
+age_le_12_months,NUsage,Pearson,41,0.0924876363061,0.56520301472,-0.186058926903,0.371587153446,10000,Negligible positive association; not statistically distinguishable from zero at the 0.05 level.,12
+age_le_12_months,NUsage,Spearman,41,0.03705944176,0.8180632777,-0.307322163288,0.376049322812,10000,Negligible positive association; not statistically distinguishable from zero at the 0.05 level.,12
+age_le_12_months,SImp,Pearson,41,-0.0373915279241,0.816460777503,-0.326507169364,0.255407131518,10000,Negligible negative association; not statistically distinguishable from zero at the 0.05 level.,12
+age_le_12_months,SImp,Spearman,41,-0.0821894061382,0.609449336403,-0.407010680062,0.266214773474,10000,Negligible negative association; not statistically distinguishable from zero at the 0.05 level.,12
+age_le_12_months,BHI,Pearson,41,0.273361530564,0.0837469655371,-0.0192028405765,0.508953030258,10000,Weak positive association; not statistically distinguishable from zero at the 0.05 level.,12
+age_le_12_months,BHI,Spearman,41,0.2294853726,0.148929215007,-0.101319758431,0.51232524477,10000,Weak positive association; not statistically distinguishable from zero at the 0.05 level.,12
+age_le_18_months,NUsage,Pearson,80,0.172743639509,0.125450104083,-0.0280680187552,0.321762424276,10000,Weak positive association; not statistically distinguishable from zero at the 0.05 level.,18
+age_le_18_months,NUsage,Spearman,80,0.126973105353,0.261710344646,-0.0974626433306,0.3449503453,10000,Weak positive association; not statistically distinguishable from zero at the 0.05 level.,18
+age_le_18_months,SImp,Pearson,80,0.010667432465,0.925177935982,-0.216831945375,0.198125284453,10000,Negligible positive association; not statistically distinguishable from zero at the 0.05 level.,18
+age_le_18_months,SImp,Spearman,80,-0.0495510286391,0.662480606077,-0.268170778898,0.175539661507,10000,Negligible negative association; not statistically distinguishable from zero at the 0.05 level.,18
+age_le_18_months,BHI,Pearson,80,0.100022207342,0.377364741646,-0.142127388238,0.319546276827,10000,Weak positive association; not statistically distinguishable from zero at the 0.05 level.,18
+age_le_18_months,BHI,Spearman,80,0.0194709667001,0.863886514014,-0.2213765946,0.256619626238,10000,Negligible positive association; not statistically distinguishable from zero at the 0.05 level.,18
+age_le_24_months,NUsage,Pearson,105,0.0965520046477,0.327178936171,-0.0721804987096,0.254013934485,10000,Negligible positive association; not statistically distinguishable from zero at the 0.05 level.,24
+age_le_24_months,NUsage,Spearman,105,0.0846380663214,0.390648405512,-0.106622930929,0.269313128625,10000,Negligible positive association; not statistically distinguishable from zero at the 0.05 level.,24
+age_le_24_months,SImp,Pearson,105,-0.0792434604276,0.421657785501,-0.258474590655,0.0917598918393,10000,Negligible negative association; not statistically distinguishable from zero at the 0.05 level.,24
+age_le_24_months,SImp,Spearman,105,-0.137405134575,0.162182489334,-0.316246045815,0.0570560350039,10000,Weak negative association; not statistically distinguishable from zero at the 0.05 level.,24
+age_le_24_months,BHI,Pearson,105,-0.198907461523,0.0419344215523,-0.382783165427,-0.00874118575,10000,Weak negative association; statistically distinguishable from zero at the 0.05 level.,24
+age_le_24_months,BHI,Spearman,105,-0.236785560458,0.01501666277,-0.420088281334,-0.0412329519085,10000,Weak negative association; statistically distinguishable from zero at the 0.05 level.,24

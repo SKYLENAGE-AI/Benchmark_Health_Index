@@ -1,0 +1,2 @@
+Recent_Definition,Recent_N,Recent_Top25_N,Recent_Top25_Proportion,Recent_Wilson_95_Lower,Recent_Wilson_95_Upper,Older_Definition,Older_N,Older_Top25_N,Older_Top25_Proportion,Older_Wilson_95_Lower,Older_Wilson_95_Upper,Risk_Difference_Recent_Minus_Older,Fisher_Exact_Odds_Ratio,Fisher_Exact_P_Value_Two_Sided
+age_months <= 12,41,15,0.365853658537,0.235898310197,0.518792989121,age_months > 12,116,25,0.215517241379,0.150456706456,0.298815685173,0.150336417157,2.1,0.0639622651947

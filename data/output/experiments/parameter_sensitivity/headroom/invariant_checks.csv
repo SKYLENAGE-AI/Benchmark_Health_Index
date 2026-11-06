@@ -1,0 +1,71 @@
+condition,invariant,observed_value,expected,passed,diagnosis
+SF_1_10,input_model_set_and_order_identical,0.0,0 mismatches,True,
+SF_1_10,input_benchmark_set_and_order_identical,0.0,0 mismatches,True,
+SF_1_10,disc_eligibility_identical,0.0,0 mismatches,True,
+SF_1_10,sat_eligibility_identical,0.0,0 mismatches,True,
+SF_1_10,impact_eligibility_identical,0.0,0 mismatches,True,
+SF_1_10,availability_matrix_identical,0.0,0 mismatches,True,
+SF_1_10,lobo_capability_scores_invariant,0.0,<= 1e-12,True,Positive within-benchmark scaling preserves pairwise order.
+SF_1_10,S_Imp_Raw_invariant,0.0,<= 1e-12,True,LOBO and availability are unchanged.
+SF_1_10,S_Imp_invariant,0.0,<= 1e-12,True,LOBO and availability are unchanged.
+SF_1_10,unaffected_disc_matrix_invariant,0.0,<= 1e-12,True,
+SF_1_10,unaffected_sat_matrix_invariant,0.0,<= 1e-12,True,
+SF_1_10,unaffected_S_Static_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_10,unaffected_S_Dynamic_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_10,unaffected_S_Sat_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_20,input_model_set_and_order_identical,0.0,0 mismatches,True,
+SF_1_20,input_benchmark_set_and_order_identical,0.0,0 mismatches,True,
+SF_1_20,disc_eligibility_identical,0.0,0 mismatches,True,
+SF_1_20,sat_eligibility_identical,0.0,0 mismatches,True,
+SF_1_20,impact_eligibility_identical,0.0,0 mismatches,True,
+SF_1_20,availability_matrix_identical,0.0,0 mismatches,True,
+SF_1_20,lobo_capability_scores_invariant,0.0,<= 1e-12,True,Positive within-benchmark scaling preserves pairwise order.
+SF_1_20,S_Imp_Raw_invariant,0.0,<= 1e-12,True,LOBO and availability are unchanged.
+SF_1_20,S_Imp_invariant,0.0,<= 1e-12,True,LOBO and availability are unchanged.
+SF_1_20,unaffected_disc_matrix_invariant,0.0,<= 1e-12,True,
+SF_1_20,unaffected_sat_matrix_invariant,0.0,<= 1e-12,True,
+SF_1_20,unaffected_S_Static_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_20,unaffected_S_Dynamic_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_20,unaffected_S_Sat_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_25,input_model_set_and_order_identical,0.0,0 mismatches,True,
+SF_1_25,input_benchmark_set_and_order_identical,0.0,0 mismatches,True,
+SF_1_25,disc_eligibility_identical,0.0,0 mismatches,True,
+SF_1_25,sat_eligibility_identical,0.0,0 mismatches,True,
+SF_1_25,impact_eligibility_identical,0.0,0 mismatches,True,
+SF_1_25,availability_matrix_identical,0.0,0 mismatches,True,
+SF_1_25,lobo_capability_scores_invariant,0.0,<= 1e-12,True,Positive within-benchmark scaling preserves pairwise order.
+SF_1_25,S_Imp_Raw_invariant,0.0,<= 1e-12,True,LOBO and availability are unchanged.
+SF_1_25,S_Imp_invariant,0.0,<= 1e-12,True,LOBO and availability are unchanged.
+SF_1_25,unaffected_disc_matrix_invariant,0.0,<= 1e-12,True,
+SF_1_25,unaffected_sat_matrix_invariant,0.0,<= 1e-12,True,
+SF_1_25,unaffected_S_Static_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_25,unaffected_S_Dynamic_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_25,unaffected_S_Sat_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_33,input_model_set_and_order_identical,0.0,0 mismatches,True,
+SF_1_33,input_benchmark_set_and_order_identical,0.0,0 mismatches,True,
+SF_1_33,disc_eligibility_identical,0.0,0 mismatches,True,
+SF_1_33,sat_eligibility_identical,0.0,0 mismatches,True,
+SF_1_33,impact_eligibility_identical,0.0,0 mismatches,True,
+SF_1_33,availability_matrix_identical,0.0,0 mismatches,True,
+SF_1_33,lobo_capability_scores_invariant,0.0,<= 1e-12,True,Positive within-benchmark scaling preserves pairwise order.
+SF_1_33,S_Imp_Raw_invariant,0.0,<= 1e-12,True,LOBO and availability are unchanged.
+SF_1_33,S_Imp_invariant,0.0,<= 1e-12,True,LOBO and availability are unchanged.
+SF_1_33,unaffected_disc_matrix_invariant,0.0,<= 1e-12,True,
+SF_1_33,unaffected_sat_matrix_invariant,0.0,<= 1e-12,True,
+SF_1_33,unaffected_S_Static_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_33,unaffected_S_Dynamic_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_33,unaffected_S_Sat_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_50,input_model_set_and_order_identical,0.0,0 mismatches,True,
+SF_1_50,input_benchmark_set_and_order_identical,0.0,0 mismatches,True,
+SF_1_50,disc_eligibility_identical,0.0,0 mismatches,True,
+SF_1_50,sat_eligibility_identical,0.0,0 mismatches,True,
+SF_1_50,impact_eligibility_identical,0.0,0 mismatches,True,
+SF_1_50,availability_matrix_identical,0.0,0 mismatches,True,
+SF_1_50,lobo_capability_scores_invariant,0.0,<= 1e-12,True,Positive within-benchmark scaling preserves pairwise order.
+SF_1_50,S_Imp_Raw_invariant,0.0,<= 1e-12,True,LOBO and availability are unchanged.
+SF_1_50,S_Imp_invariant,0.0,<= 1e-12,True,LOBO and availability are unchanged.
+SF_1_50,unaffected_disc_matrix_invariant,0.0,<= 1e-12,True,
+SF_1_50,unaffected_sat_matrix_invariant,0.0,<= 1e-12,True,
+SF_1_50,unaffected_S_Static_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_50,unaffected_S_Dynamic_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.
+SF_1_50,unaffected_S_Sat_invariant,0.0,<= 1e-12,True,Direct saturation changes are confined to the open-upper-bound subset.

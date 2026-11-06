@@ -1,0 +1,156 @@
+comparison_name,baseline_benchmark,updated_benchmark,match_type,normalization_reason,is_exact,included_in_conservative_analysis,ambiguity_flag
+original_submission_vs_new_june,Humanity's Last Exam,Humanity's Last Exam,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,SimpleQA,SimpleQA,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,BrowseComp,BrowseComp,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,ARC-AGI-2,ARC-AGI-2,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,LiveCodeBench-V6,LiveCodeBench-V6,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,ZeroBench,ZeroBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Graphwalks bfs>128k,Graphwalks bfs>128k,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,SWE-Bench,SWE-Bench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Graphwalks parents>128k,Graphwalks parents>128k,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Terminal-Bench-V2,Terminal-Bench-V2,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,GPQA-Diamond,GPQA-Diamond,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,FrontierMath,FrontierMath,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Toolathlon,Toolathlon,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,AIME 2025,AIME 2025,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,VitaBench,VitaBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,AIME 2024,AIME 2024,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Terminal-Bench,Terminal-Bench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Tau2-bench-Telecom,Tau2-bench-Telecom,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,OJBench,OJBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,ARC-AGI,ARC-AGI,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Multi-SWE-Bench,Multi-SWE-Bench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,ZeroBench(sub),ZeroBench(sub),exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,SciCode,SciCode,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Tau1-bench-Airline,Tau1-bench-Airline,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,VisuLogic,VisuLogic,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,BrowseComp-ZH,BrowseComp-ZH,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,CyberGym,CyberGym,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Tau2-bench-Airline,Tau2-bench-Airline,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Vending-Bench 2(no limited),Vending-Bench 2(no limited),exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,HealthBench Hard,HealthBench Hard,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MultiChallenge,MultiChallenge,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Aider Polyglot,Aider Polyglot,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,PolyMATH,PolyMATH,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Codeforces-Rating(no limited),Codeforces-Rating(no limited),exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Beyond AIME,Beyond AIME,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,SWE-Bench Multilingual,SWE-Bench Multilingual,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,DynaMath,DynaMath,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,SuperGPQA,SuperGPQA,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,GDPval-AA Elo(no limited),GDPval-AA Elo(no limited),exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,SWE-Bench Pro,SWE-Bench Pro,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,BabyVision,BabyVision,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MCP Atlas,MCP Atlas,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Seal-0,Seal-0,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MRCR 128K,MRCR 128K,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,CharXiv-Reasoning,CharXiv-Reasoning,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MCP-Mark,MCP-Mark,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,EMMA,EMMA,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MMMU-Pro,MMMU-Pro,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,GPQA,GPQA,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Graphwalks bfs <128k,Graphwalks bfs <128k,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MATH-Vision,MATH-Vision,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,OSWorld,OSWorld,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MMLU-Pro,MMLU-Pro,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,C-SimpleQA,C-SimpleQA,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,FinSearchComp-T3,FinSearchComp-T3,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,NL2Repo,NL2Repo,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,OlympiadBench,OlympiadBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Tau2-bench-Retail,Tau2-bench-Retail,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MMMU,MMMU,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MATH,MATH,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,LiveCodeBench-Pro(no limited),LiveCodeBench-Pro(no limited),exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,ScreenSpot-Pro,ScreenSpot-Pro,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,FACTS Grounding,FACTS Grounding,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,ERQA,ERQA,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,COLLIE,COLLIE,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Tau1-bench-Retail,Tau1-bench-Retail,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,LiveCodeBench-V5,LiveCodeBench-V5,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,BFCL-v3,BFCL-v3,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Arena-Hard,Arena-Hard,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,HealthBench,HealthBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Finance Agent v1.1,Finance Agent v1.1,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MathVista,MathVista,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,IMO-AnswerBench,IMO-AnswerBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,ZebraLogic,ZebraLogic,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,WeMath,WeMath,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Tau2-bench,Tau2-bench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MathVerse,MathVerse,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,BFCL-v4,BFCL-v4,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Graphwalks parents <128k,Graphwalks parents <128k,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MRCR 1M,MRCR 1M,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,SimpleVQA,SimpleVQA,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,LogicVista,LogicVista,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MMStar,MMStar,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,LongBench-v2,LongBench-v2,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MultiPL-E,MultiPL-E,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,IFBench,IFBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Hallusion Bench,Hallusion Bench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,WideSearch,WideSearch,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MMVU,MMVU,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Vibe-Eval,Vibe-Eval,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Blink,Blink,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MBPP+,MBPP+,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,DeepSearchQA,DeepSearchQA,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,GDPval,GDPval,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,RefSpatialBench,RefSpatialBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,AA-LCR,AA-LCR,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Creative Writing v3(no limited),Creative Writing v3(no limited),exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MMMLU,MMMLU,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,AGI-Eval,AGI-Eval,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,IFEval,IFEval,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,HumanEval+,HumanEval+,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,DROP,DROP,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MultiIF,MultiIF,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,CNMO 2024,CNMO 2024,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MGSM,MGSM,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Claw-Eval,Claw-Eval,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,GAIA(text only),GAIA(text only),exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,CLUEWSC,CLUEWSC,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,HumanEval,HumanEval,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,LiveBench,LiveBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,WritingBench,WritingBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Video-MMMU,Video-MMMU,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,INCLUDE,INCLUDE,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,SysBench,SysBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MotionBench,MotionBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MMLU-ProX,MMLU-ProX,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,HMMT Feb 2025,HMMT Feb 2025,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,RealWorldQA,RealWorldQA,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,FRAMES,FRAMES,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Video-MME,Video-MME,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MMLU,MMLU,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,PIQA,PIQA,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MBPP,MBPP,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,LVBench,LVBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,LongVideoBench,LongVideoBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,AI2D,AI2D,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,AceBench,AceBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,CharXiv-Descriptive,CharXiv-Descriptive,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,WinoGrande,WinoGrande,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,OCRBench,OCRBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MATH-500,MATH-500,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,CRUX-O,CRUX-O,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MMLU-Redux,MMLU-Redux,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,GSM8K,GSM8K,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,BBH,BBH,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,HellaSwag,HellaSwag,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,C-Eval,C-Eval,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,Global PIQA,Global PIQA,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,CMMLU,CMMLU,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,AIME 2026,AIME 2026,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,CRUX-I,CRUX-I,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,VLMsAreBlind,VLMsAreBlind,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,LOFT(hard retrieval) ≤128K,LOFT(hard retrieval) ≤128K,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MMLU-Global,MMLU-Global,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,MMCU,MMCU,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,ChartQA,ChartQA,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,CountBench,CountBench,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,ARC-Challenge,ARC-Challenge,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,CMATH,CMATH,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,EgoSchema,EgoSchema,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,DocVQA,DocVQA,exact,exact_after_trim,True,True,False
+original_submission_vs_new_june,HMMT NOV 2025,HMMT Nov 2025,cosmetic_normalization,case,False,True,False
+original_submission_vs_new_june,MRCR-V2 128K,MRCR-v2 128K,cosmetic_normalization,case;hyphen_underscore_space,False,True,False
+original_submission_vs_new_june,MRCR-V2 1M,MRCR-v2 1M,cosmetic_normalization,case;hyphen_underscore_space,False,True,False
+original_submission_vs_new_june,HMMT Feb 26,HMMT Feb 2026,unique_two_digit_year_expansion,case;two_digit_year_expansion,False,True,False

@@ -1,0 +1,417 @@
+Benchmark,Disc_Valid_Count,Sat_Valid_Count,Impact_Evaluated_Count,Disc_Eligible,Sat_Eligible,Impact_Eligible,Included_In_Final,Exclusion_Reason
+AA-LCR,4,4,4,True,True,True,True,Included
+AceBench,3,3,3,True,True,True,True,Included
+AdvancedIF,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+AetherCode,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+AGI-Eval,3,3,3,True,True,True,True,Included
+AI2D,5,5,5,True,True,True,True,Included
+Aider Polyglot,21,21,21,True,True,True,True,Included
+AIME 2024,33,33,33,True,True,True,True,Included
+AIME 2025,59,61,61,True,True,True,True,Included
+AIME 2026,6,6,6,True,True,True,True,Included
+AInstein Bench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+AlignmentBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+All-Angles,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Alnstein-SWE-Bench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+AlpacaEval,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+AlpacaEval2.0,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+AMC-2023,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+AMC-2024,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+AMO-Bench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+AndroidWorld,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Apex,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Apex Shortlist,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+APEX-Agents,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+ARC-AGI,12,12,12,True,True,True,True,Included
+ARC-AGI-2,15,15,15,True,True,True,True,Included
+ARC-Challenge,3,3,3,True,True,True,True,Included
+ARC-Easy,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+ArcAGI1-Image,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+ArcAGI2-Image,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Arena-Hard,13,13,13,True,True,True,True,Included
+ArtifactsBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+ASDiv,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+AutoLogi,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+BABE,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+BabyVision,4,4,4,True,True,True,True,Included
+BBEH,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+BBH,11,11,11,True,True,True,True,Included
+BetterChartQA,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Beyond AIME,5,5,5,True,True,True,True,Included
+BFCL multi-turn,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+BFCL-v3,10,10,10,True,True,True,True,Included
+BFCL-v4,4,4,4,True,True,True,True,Included
+BigLaw Bench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+BIOBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+BioPipelineBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+BixBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Blink,5,5,5,True,True,True,True,Included
+BrowseComp,36,36,36,True,True,True,True,Included
+BrowseComp Long Context 128k,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+BrowseComp Long Context 256k,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+BrowseComp-Plus,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+BrowseComp-ZH,12,12,12,True,True,True,True,Included
+BRUMO 2025,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+C-Eval,13,13,13,True,True,True,True,Included
+C-SimpleQA,17,17,17,True,True,True,True,Included
+C3,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Capture-the-Flags challenge tasks (Internal),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-Bench-V2 / Backend Engineering (Pass@1),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-Bench-V2 / Build Next.js (BSR),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-Bench-V2 / Build React (BSR),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-Bench-V2 / Build Svelte (BSR),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-Bench-V2 / Build Vue (BSR),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-Bench-V2 / Frontend HTML (CSR),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-Bench-V2 / Frontend HTML (ISR),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-Bench-V2 / Frontend React (CSR),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-Bench-V2 / Frontend React (ISR),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-Bench-V2 / Frontend Vue (CSR),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-Bench-V2 / Frontend Vue (ISR),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-Bench-V2 / Long-horizon Chained Tasks (Pass@1),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-Bench-V2 / Long-horizon Repo Exploration (Pass@1),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CC-OCR,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CCBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CCPM,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CELLO,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CF-Div2-Stepfun-cpp,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CFBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CFEval(no limited),2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CGBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+ChartQA,6,6,6,True,True,True,True,Included
+ChartQAPro,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CharXiv-Descriptive,5,5,5,True,True,True,True,Included
+CharXiv-Reasoning,18,18,18,True,True,True,True,Included
+Claw-Eval,3,3,3,True,True,True,True,Included
+CLUEWSC,7,7,7,True,True,True,True,Included
+CM17K,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CMATH,3,3,3,True,True,True,True,Included
+CMMLU,10,10,10,True,True,True,True,Included
+CN-Middle-School-24,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CNMO 2024,4,4,4,True,True,True,True,Included
+Codeforces-Acc,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Codeforces-Rating(no limited),10,12,12,True,True,True,True,Included
+CodeSimpleQA,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+COLLIE,8,8,8,True,True,True,True,Included
+Complex Workfow,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+ComplexFuncBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+ContPhy,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CorpusQA 1M,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CountBench,6,6,6,True,True,True,True,Included
+Countix,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Creative Writing v3(no limited),6,6,6,True,True,True,True,Included
+CrossVid,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CRUX-I,3,3,3,True,True,True,True,Included
+CRUX-O,3,3,3,True,True,True,True,Included
+Customer Support Q&A,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CV-Bench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+CyberGym,6,6,6,True,True,True,True,Included
+DA-2K,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+DeepConsult,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+DeepPlanning,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+DeepResearchBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+DeepSearchQA,5,5,5,True,True,True,True,Included
+DeR^2 Bench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+DiscoX,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+DocVQA,5,5,5,True,True,True,True,Included
+DROP,13,13,13,True,True,True,True,Included
+DUDE,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+DynaMath,8,8,8,True,True,True,True,Included
+ECLeKTic,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Education,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+EgoSchema,3,3,3,True,True,True,True,Included
+EgoTempo,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+EIFBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+EmbSpatialBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+EMMA,3,3,3,True,True,True,True,Included
+Encyclo-K,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+EQ-Bench(no limited),2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+ERQA,7,7,7,True,True,True,True,Included
+EvalPlus,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Expert-SWE (Internal),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+FACTS Grounding,4,4,4,True,True,True,True,Included
+FActScore,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Finance Agent,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Finance Agent v1.1,5,5,5,True,True,True,True,Included
+FinSearchComp-global,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+FinSearchComp-T3,3,3,3,True,True,True,True,Included
+FRAMES,5,5,5,True,True,True,True,Included
+Frontier Science Research,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+FrontierMath,9,9,9,True,True,True,True,Included
+FrontierSci-olympiad,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+FSC-147,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+FullStackBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+GAIA(text only),3,3,3,True,True,True,True,Included
+GaoKao,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+GDPval,6,6,6,True,True,True,True,Included
+GDPval-AA Elo(no limited),10,10,9,True,True,True,True,Included
+GDPval-MM,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+GeneBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Global PIQA,5,5,5,True,True,True,True,Included
+GPQA,18,20,20,True,True,True,True,Included
+GPQA-Diamond,74,74,74,True,True,True,True,Included
+Graphwalks bfs 1mil,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Graphwalks bfs <128k,6,6,6,True,True,True,True,Included
+Graphwalks bfs>128k,4,4,4,True,True,True,True,Included
+Graphwalks parents 1mil,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Graphwalks parents <128k,5,5,5,True,True,True,True,Included
+Graphwalks parents>128k,4,4,4,True,True,True,True,Included
+GSM8K,10,10,10,True,True,True,True,Included
+Hallucination Leaderboard (Lower-Better),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Hallucination Rate (Lower-Better),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+HalluLens LongWiki (Lower-Better),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+HalluLens-NonExistentRefusal (Lower-Better),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+HalluLens-PreciseWikiQA (Lower-Better),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Hallusion Bench,7,7,7,True,True,True,True,Included
+HealthBench,4,4,4,True,True,True,True,Included
+HealthBench Hard,3,3,3,True,True,True,True,Included
+HealthBench Hard Hallucinations (Lower-Better),2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+HellaSwag,4,4,4,True,True,True,True,Included
+HiddenMath-Hard,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+HiPhO,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Humanity's Last Exam,55,56,56,True,True,True,True,Included
+HLE-Verified,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+HMMT Feb 2025,12,12,12,True,True,True,True,Included
+HMMT Feb 26,5,5,5,True,True,True,True,Included
+HMMT NOV 2025,24,27,27,True,True,True,True,Included
+HumanEval,4,4,4,True,True,True,True,Included
+HumanEval+,7,7,7,True,True,True,True,Included
+HumanEval-X,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Hypersim,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+IFBench,5,5,5,True,True,True,True,Included
+IFEval,24,24,24,True,True,True,True,Included
+IMO-AnswerBench,16,16,16,True,True,True,True,Included
+INCLUDE,6,6,6,True,True,True,True,Included
+Infographic VQA,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Information Extraction,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Information Processing,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+InfoVQA(test),2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Intention Recognition,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Inverse IFEval,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Investment Banking Modeling Tasks (Internal),2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+KOR-Bench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+LingoQA,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+LiveBench,6,6,6,True,True,True,True,Included
+LiveCodeBench-Pro(no limited),5,5,5,True,True,True,True,Included
+LiveCodeBench-V5,9,9,9,True,True,True,True,Included
+LiveCodeBench-V6,55,56,56,True,True,True,True,Included
+LiveSports-3K,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+LMArena(no limited),2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+LOFT(hard retrieval) 1M,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+LOFT(hard retrieval) ≤128K,4,4,4,True,True,True,True,Included
+LogicVista,4,4,4,True,True,True,True,Included
+LongBench-v2,8,8,8,True,True,True,True,Included
+LongDocURL,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Longform Writing,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+LongVideoBench,3,3,3,True,True,True,True,Included
+LPFQA,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+LVBench,4,4,4,True,True,True,True,Included
+MARS-Bench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MATH,11,11,11,True,True,True,True,Included
+MATH-500,14,14,14,True,True,True,True,Included
+MATH-Vision,11,11,11,True,True,True,True,Included
+MathVista,18,18,18,True,True,True,True,Included
+MathArena Apex,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MathCanvas,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MathKangaroo,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MATHQA,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MathVerse,4,4,4,True,True,True,True,Included
+MaXIFE,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MBPP,4,4,4,True,True,True,True,Included
+MBPP+,9,9,9,True,True,True,True,Included
+McEval,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MCP Atlas,14,14,14,True,True,True,True,Included
+MCP-Mark,4,4,4,True,True,True,True,Included
+MedXpertQA (Text),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MedXpertQA-MM,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Meeseeks-zh,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MGSM,3,3,3,True,True,True,True,Included
+Minedojo Verified,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Minerva,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MLE-Bench Lite (avg medal rate),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MLVU,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MM-BrowseComp,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MM-ClawBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MMBench(v1.1),4,4,4,True,True,True,True,Included
+MMBench-cn,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MMBench-en,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MMCU,3,3,3,True,True,True,True,Included
+MME-CC,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MME-reasoning,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MMK12,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MMLB-NIAH(128k),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MMLB-VRAG(128k),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MMLongBench-Doc,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MMLU,21,21,21,True,True,True,True,Included
+MMLU-Global,4,4,4,True,True,True,True,Included
+MMLU-Pro,47,47,47,True,True,True,True,Included
+MMLU-ProX,6,6,6,True,True,True,True,Included
+MMLU-Redux,15,15,15,True,True,True,True,Included
+MMMLU,17,17,17,True,True,True,True,Included
+MMMU,33,33,33,True,True,True,True,Included
+MMMU-Pro,21,21,21,True,True,True,True,Included
+MMSIBench(circular),2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MMStar,11,11,11,True,True,True,True,Included
+MMVet,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MMVP,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MMVU,5,5,5,True,True,True,True,Included
+Morse-500,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MotionBench,3,3,3,True,True,True,True,Included
+MRCR-8needle,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MRCR 128K,3,3,3,True,True,True,True,Included
+MRCR 1M,4,4,4,True,True,True,True,Included
+"MRCR v2 (8-needle, 256k)",1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MRCR-V2 128K,9,9,9,True,True,True,True,Included
+"MRCR v2 (8-needle, 1M)",1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MRCR-V2 1M,6,6,6,True,True,True,True,Included
+MTBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MTOB(full book) eng → kgv,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MTOB(full book) kgv → eng,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MTOB(half book) eng → kgv,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MTOB(half book) kgv → eng,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MTVQA,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MUIRBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Multi-SWE-Bench,8,8,8,True,True,True,True,Included
+MultiChallenge,15,15,15,True,True,True,True,Included
+MultiIF,8,8,8,True,True,True,True,Included
+MultiPL-E,7,7,7,True,True,True,True,Included
+MUSR,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+MVBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+NaturalQuestions,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+NL2Repo,3,3,3,True,True,True,True,Included
+NOVA-63,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Nuscene,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OCRBench,5,5,5,True,True,True,True,Included
+OCRBenchv2,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OctoCodingbench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+ODInW13,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+ODVBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OfficeQA,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OfficeQA Pro,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OJBench,6,7,7,True,True,True,True,Included
+OIBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OlympiadBench,3,3,3,True,True,True,True,Included
+OlympiadBench-Math,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Omni-MATH,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OmniDocBench1.5 (Lower-Better)(0-1),7,7,7,True,True,True,True,Included
+OmniMMI,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OpenAI MRCR v2 8-needle 128K–256K,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OpenAI MRCR v2 8-needle 16K–32K,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OpenAI MRCR v2 8-needle 256K–512K,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OpenAI MRCR v2 8-needle 32K–64K,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OpenAI MRCR v2 8-needle 4K–8K,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OpenAI MRCR v2 8-needle 512K–1M,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OpenAI MRCR v2 8-needle 64K–128K,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OpenAI MRCR v2 8-needle 8K–16K,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OpenRCA,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OSWorld,11,11,11,True,True,True,True,Included
+OVBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+OVOBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+PaperBench (CodeDev),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+PHYBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+PhyX (mc-text-minimal),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+PhyX (openended),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+PinchBench (avg.),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+PIQA,5,5,5,True,True,True,True,Included
+PMC-VQA,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Point-Bench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+PolyMATH,7,7,7,True,True,True,True,Included
+ProcBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+QwenClawBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+QwenWebBench(no limited),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Random Complex Tasks,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+RealWorldQA,5,5,5,True,True,True,True,Included
+RefCOCO,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+RefSpatialBench,3,3,3,True,True,True,True,Included
+RepoQA,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+ResearchRubrics,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+RISE,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+RW Search,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SciCode,7,7,7,True,True,True,True,Included
+ScreenSpot-Pro,6,6,6,True,True,True,True,Included
+Seal-0,3,4,4,True,True,True,True,Included
+SecCodeBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SeePhys,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SFE,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SimpleQA,24,27,27,True,True,True,True,Included
+SimpleVQA,8,8,8,True,True,True,True,Included
+SkillsBench Avg5,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SLAKE,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SpreadSheetBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+StreamingBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SUNRGBD,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SuperGPQA,16,16,16,True,True,True,True,Included
+SVAMP,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SWE-Bench Multilingual,21,21,21,True,True,True,True,Included
+SWE-Bench Pro,14,14,14,True,True,True,True,Included
+SWE-Bench,57,57,57,True,True,True,True,Included
+SWE-Bench Pro (Public),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SWE-Evo,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SWE-Lancer(no limited),3,3,3,True,True,True,True,Included
+SWE-Perf,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SWE-rebench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SWE-Review,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+SysBench,5,5,5,True,True,True,True,Included
+T-Eval,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Tau1-bench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Tau1-bench-Airline,15,15,15,True,True,True,True,Included
+Tau1-bench-Retail,15,15,15,True,True,True,True,Included
+Tau2-bench,15,15,15,True,True,True,True,Included
+Tau2-bench-Airline,12,12,12,True,True,True,True,Included
+Tau2-bench-Retail,18,18,18,True,True,True,True,Included
+Tau2-bench-Telecom,25,25,25,True,True,True,True,Included
+Tau3-bench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+TempCompass,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Terminal-Bench,15,15,15,True,True,True,True,Included
+Terminal-Bench-Hard,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Terminal-Bench-V2,27,27,27,True,True,True,True,Included
+TextVQA(val),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+TIR-Bench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+TOMATO,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Toolathlon,14,14,14,True,True,True,True,Included
+TreeBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+TriviaQA,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+TVBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+U-Artifacts,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+USAMO 2025,1,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+V*,2,3,3,False,True,True,False,S_Disc valid score count < 3
+VCRBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Vending-Bench(no limited),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Vending-Bench 2(no limited),5,5,5,True,True,True,True,Included
+Vibe,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Vibe-Eval,4,4,4,True,True,True,True,Included
+Vibe-Pro,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+Video-MME,7,7,7,True,True,True,True,Included
+Video-MMMU,11,11,11,True,True,True,True,Included
+VideoEval-Pro,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+VideoHolmes,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+VideoReasonBench,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+VideoSimpleQA,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+VisFactor,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+ViSpeak,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+VisualPuzzle,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+VisuLogic,3,3,3,True,True,True,True,Included
+VitaBench,5,5,5,True,True,True,True,Included
+ViVerBench,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+VLMsAreBiased,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+VLMsAreBlind,3,3,3,True,True,True,True,Included
+VPCT,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+WebArena,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+WeMath,5,5,5,True,True,True,True,Included
+WideSearch,7,7,7,True,True,True,True,Included
+WinoGrande,4,4,4,True,True,True,True,Included
+WMT24++,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+WorldTravel multi-modal,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+WorldTravel text,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+WorldVQA,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+WritingBench,6,6,6,True,True,True,True,Included
+xbench-DeepSearch-2505,2,2,2,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+xbench-DeepSearch-2510,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+XLRS-Bench (macro),1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+XpertBench Edu,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+XpertBench Fin,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+XpertBench Humanities,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+XpertBench Law,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+XpertBench Research,1,1,1,False,False,False,False,S_Disc valid score count < 3; S_Sat valid score count < 3; Impact evaluated model count < 3
+ZebraLogic,11,11,11,True,True,True,True,Included
+ZeroBench,6,6,6,True,True,True,True,Included
+ZeroBench(sub),3,3,3,True,True,True,True,Included

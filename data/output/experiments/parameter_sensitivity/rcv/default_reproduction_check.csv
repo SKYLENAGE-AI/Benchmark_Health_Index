@@ -1,0 +1,10 @@
+check,passed,observed_max_abs_difference,tolerance
+benchmark_set_matches,True,0.0,1e-12
+max_abs_robust_cv_difference,True,9.71445146547012e-17,1e-12
+max_abs_edr_difference,True,1.1102230246251565e-16,1e-12
+max_abs_s_disc_difference,True,1.1102230246251565e-16,1e-12
+max_abs_s_disc_critic_weight_difference,True,0.0,1e-12
+max_abs_s_sat_critic_weight_difference,True,1.1102230246251565e-16,1e-12
+max_abs_s_imp_critic_weight_difference,True,5.551115123125783e-17,1e-12
+max_abs_bhi_difference,True,2.220446049250313e-16,1e-12
+ranking_order_matches,True,0.0,1e-12

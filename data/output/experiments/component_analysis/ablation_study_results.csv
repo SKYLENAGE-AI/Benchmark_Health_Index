@@ -1,0 +1,159 @@
+Benchmark,Rank_Full,Rank_wo_Disc,Delta_wo_Disc,Direction_wo_Disc,Rank_wo_Sat,Delta_wo_Sat,Direction_wo_Sat,Rank_wo_Imp,Delta_wo_Imp,Direction_wo_Imp
+SWE-Lancer(no limited),2.0,20.0,18.0,Dropped,13.0,11.0,Dropped,1.0,1.0,Rose
+Graphwalks parents>128k,10.0,46.0,36.0,Dropped,14.0,4.0,Dropped,4.0,6.0,Rose
+Tau2-bench-Telecom,20.0,58.0,38.0,Dropped,3.0,17.0,Rose,32.0,12.0,Dropped
+ARC-AGI,22.0,65.0,43.0,Dropped,12.0,10.0,Rose,19.0,3.0,Rose
+ARC-AGI-2,5.0,13.0,8.0,Dropped,8.0,3.0,Dropped,6.0,1.0,Dropped
+AIME 2024,18.0,50.0,32.0,Dropped,9.0,9.0,Rose,26.0,8.0,Dropped
+HMMT NOV 2025,24.0,57.0,33.0,Dropped,7.0,17.0,Rose,42.0,18.0,Dropped
+LiveCodeBench-V6,6.0,12.0,6.0,Dropped,1.0,5.0,Rose,18.0,12.0,Dropped
+Graphwalks bfs>128k,8.0,16.0,8.0,Dropped,16.0,8.0,Dropped,2.0,6.0,Rose
+SimpleQA,3.0,9.0,6.0,Dropped,11.0,8.0,Dropped,5.0,2.0,Dropped
+BrowseComp,4.0,10.0,6.0,Dropped,2.0,2.0,Rose,15.0,11.0,Dropped
+MRCR 128K,48.0,91.0,43.0,Dropped,31.0,17.0,Rose,23.0,25.0,Rose
+Beyond AIME,39.0,73.0,34.0,Dropped,22.0,17.0,Rose,22.0,17.0,Rose
+PolyMATH,36.0,55.0,19.0,Dropped,25.0,11.0,Rose,24.0,12.0,Rose
+Graphwalks bfs <128k,54.0,95.0,41.0,Dropped,27.0,27.0,Rose,40.0,14.0,Rose
+CyberGym,30.0,45.0,15.0,Dropped,19.0,11.0,Rose,25.0,5.0,Rose
+DynaMath,41.0,60.0,19.0,Dropped,23.0,18.0,Rose,33.0,8.0,Rose
+MRCR-V2 128K,38.0,53.0,15.0,Dropped,21.0,17.0,Rose,35.0,3.0,Rose
+AIME 2025,16.0,26.0,10.0,Dropped,5.0,11.0,Rose,62.0,46.0,Dropped
+BrowseComp-ZH,29.0,41.0,12.0,Dropped,18.0,11.0,Rose,30.0,1.0,Dropped
+Tau2-bench-Airline,31.0,40.0,9.0,Dropped,24.0,7.0,Rose,27.0,4.0,Rose
+MATH-Vision,55.0,80.0,25.0,Dropped,20.0,35.0,Rose,52.0,3.0,Rose
+OlympiadBench,61.0,83.0,22.0,Dropped,64.0,3.0,Dropped,31.0,30.0,Rose
+Aider Polyglot,35.0,44.0,9.0,Dropped,17.0,18.0,Rose,44.0,9.0,Dropped
+Vending-Bench 2(no limited),32.0,33.0,1.0,Dropped,36.0,4.0,Dropped,21.0,11.0,Rose
+Graphwalks parents <128k,83.0,125.0,42.0,Dropped,46.0,37.0,Rose,69.0,14.0,Rose
+EMMA,51.0,72.0,21.0,Dropped,61.0,10.0,Dropped,34.0,17.0,Rose
+Humanity's Last Exam,1.0,1.0,0.0,Stable,4.0,3.0,Dropped,7.0,6.0,Dropped
+COLLIE,69.0,102.0,33.0,Dropped,42.0,27.0,Rose,53.0,16.0,Rose
+MATH,64.0,89.0,25.0,Dropped,51.0,13.0,Rose,48.0,16.0,Rose
+OJBench,21.0,19.0,2.0,Rose,39.0,18.0,Dropped,11.0,10.0,Rose
+FACTS Grounding,67.0,92.0,25.0,Dropped,58.0,9.0,Rose,50.0,17.0,Rose
+ZebraLogic,78.0,112.0,34.0,Dropped,41.0,37.0,Rose,73.0,5.0,Rose
+WeMath,79.0,111.0,32.0,Dropped,55.0,24.0,Rose,59.0,20.0,Rose
+VitaBench,17.0,15.0,2.0,Rose,49.0,32.0,Dropped,9.0,8.0,Rose
+BabyVision,45.0,47.0,2.0,Dropped,54.0,9.0,Dropped,36.0,9.0,Rose
+Arena-Hard,73.0,99.0,26.0,Dropped,45.0,28.0,Rose,70.0,3.0,Rose
+ZeroBench(sub),25.0,23.0,2.0,Rose,65.0,40.0,Dropped,10.0,15.0,Rose
+GPQA,53.0,63.0,10.0,Dropped,26.0,27.0,Rose,64.0,11.0,Dropped
+Codeforces-Rating(no limited),37.0,36.0,1.0,Rose,34.0,3.0,Rose,41.0,4.0,Dropped
+SWE-Bench,9.0,6.0,3.0,Rose,10.0,1.0,Dropped,51.0,42.0,Dropped
+MathVerse,81.0,109.0,28.0,Dropped,68.0,13.0,Rose,55.0,26.0,Rose
+GPQA-Diamond,13.0,11.0,2.0,Rose,6.0,7.0,Rose,79.0,66.0,Dropped
+AGI-Eval,103.0,139.0,36.0,Dropped,86.0,17.0,Rose,76.0,27.0,Rose
+GDPval-AA Elo(no limited),43.0,43.0,0.0,Stable,37.0,6.0,Rose,46.0,3.0,Dropped
+C-SimpleQA,58.0,59.0,1.0,Dropped,33.0,25.0,Rose,60.0,2.0,Dropped
+SciCode,26.0,21.0,5.0,Rose,53.0,27.0,Dropped,20.0,6.0,Rose
+MultiChallenge,34.0,27.0,7.0,Rose,38.0,4.0,Dropped,37.0,3.0,Dropped
+HealthBench Hard,33.0,25.0,8.0,Rose,76.0,43.0,Dropped,13.0,20.0,Rose
+Tau1-bench-Airline,27.0,24.0,3.0,Rose,50.0,23.0,Dropped,28.0,1.0,Dropped
+FinSearchComp-T3,59.0,56.0,3.0,Rose,70.0,11.0,Dropped,43.0,16.0,Rose
+Terminal-Bench-V2,11.0,4.0,7.0,Rose,15.0,4.0,Dropped,39.0,28.0,Dropped
+Tau2-bench-Retail,62.0,67.0,5.0,Dropped,29.0,33.0,Rose,82.0,20.0,Dropped
+MGSM,109.0,141.0,32.0,Dropped,92.0,17.0,Rose,81.0,28.0,Rose
+Multi-SWE-Bench,23.0,17.0,6.0,Rose,62.0,39.0,Dropped,16.0,7.0,Rose
+VisuLogic,28.0,22.0,6.0,Rose,80.0,52.0,Dropped,12.0,16.0,Rose
+HumanEval+,105.0,133.0,28.0,Dropped,69.0,36.0,Rose,88.0,17.0,Rose
+ScreenSpot-Pro,66.0,71.0,5.0,Dropped,59.0,7.0,Rose,58.0,8.0,Rose
+FrontierMath,14.0,7.0,7.0,Rose,48.0,34.0,Dropped,14.0,0.0,Stable
+SuperGPQA,42.0,34.0,8.0,Rose,47.0,5.0,Dropped,45.0,3.0,Dropped
+LogicVista,86.0,104.0,18.0,Dropped,84.0,2.0,Rose,67.0,19.0,Rose
+CharXiv-Reasoning,49.0,48.0,1.0,Rose,32.0,17.0,Rose,75.0,26.0,Dropped
+LiveCodeBench-Pro(no limited),65.0,66.0,1.0,Dropped,67.0,2.0,Dropped,54.0,11.0,Rose
+MultiPL-E,89.0,107.0,18.0,Dropped,87.0,2.0,Rose,71.0,18.0,Rose
+HumanEval,113.0,144.0,31.0,Dropped,100.0,13.0,Rose,87.0,26.0,Rose
+MRCR 1M,84.0,96.0,12.0,Dropped,81.0,3.0,Rose,72.0,12.0,Rose
+CLUEWSC,112.0,140.0,28.0,Dropped,88.0,24.0,Rose,102.0,10.0,Rose
+MRCR-V2 1M,12.0,3.0,9.0,Rose,72.0,60.0,Dropped,8.0,4.0,Rose
+MathVista,76.0,77.0,1.0,Dropped,52.0,24.0,Rose,89.0,13.0,Dropped
+CNMO 2024,108.0,127.0,19.0,Dropped,96.0,12.0,Rose,86.0,22.0,Rose
+Terminal-Bench,19.0,8.0,11.0,Rose,60.0,41.0,Dropped,17.0,2.0,Rose
+SWE-Bench Multilingual,40.0,29.0,11.0,Rose,30.0,10.0,Rose,61.0,21.0,Dropped
+LiveCodeBench-V5,71.0,68.0,3.0,Rose,77.0,6.0,Dropped,56.0,15.0,Rose
+GAIA(text only),111.0,131.0,20.0,Dropped,97.0,14.0,Rose,96.0,15.0,Rose
+ZeroBench,7.0,2.0,5.0,Rose,75.0,68.0,Dropped,3.0,4.0,Rose
+Seal-0,47.0,31.0,16.0,Rose,85.0,38.0,Dropped,38.0,9.0,Rose
+Toolathlon,15.0,5.0,10.0,Rose,40.0,25.0,Dropped,29.0,14.0,Dropped
+Tau1-bench-Retail,70.0,62.0,8.0,Rose,66.0,4.0,Rose,77.0,7.0,Dropped
+WritingBench,116.0,135.0,19.0,Dropped,93.0,23.0,Rose,108.0,8.0,Rose
+DROP,106.0,119.0,13.0,Dropped,79.0,27.0,Rose,110.0,4.0,Dropped
+MMBench(v1.1),127.0,151.0,24.0,Dropped,102.0,25.0,Rose,119.0,8.0,Rose
+BFCL-v3,72.0,61.0,11.0,Rose,83.0,11.0,Dropped,66.0,6.0,Rose
+PIQA,128.0,152.0,24.0,Dropped,109.0,19.0,Rose,115.0,13.0,Rose
+MCP Atlas,46.0,30.0,16.0,Rose,44.0,2.0,Rose,63.0,17.0,Dropped
+Tau2-bench,80.0,74.0,6.0,Rose,63.0,17.0,Rose,99.0,19.0,Dropped
+OSWorld,56.0,38.0,18.0,Rose,56.0,0.0,Stable,74.0,18.0,Dropped
+HMMT Feb 26,115.0,126.0,11.0,Dropped,82.0,33.0,Rose,120.0,5.0,Dropped
+BFCL-v4,82.0,75.0,7.0,Rose,95.0,13.0,Dropped,78.0,4.0,Rose
+DeepSearchQA,97.0,101.0,4.0,Dropped,90.0,7.0,Rose,100.0,3.0,Dropped
+MMMU-Pro,52.0,35.0,17.0,Rose,35.0,17.0,Rose,90.0,38.0,Dropped
+MBPP+,96.0,97.0,1.0,Dropped,98.0,2.0,Dropped,93.0,3.0,Rose
+MMStar,87.0,79.0,8.0,Rose,71.0,16.0,Rose,101.0,14.0,Dropped
+Vibe-Eval,94.0,94.0,0.0,Stable,106.0,12.0,Dropped,84.0,10.0,Rose
+Creative Writing v3(no limited),101.0,98.0,3.0,Rose,115.0,14.0,Dropped,83.0,18.0,Rose
+IFBench,90.0,78.0,12.0,Rose,101.0,11.0,Dropped,85.0,5.0,Rose
+MMVU,93.0,88.0,5.0,Rose,99.0,6.0,Dropped,94.0,1.0,Dropped
+IMO-AnswerBench,77.0,64.0,13.0,Rose,57.0,20.0,Rose,113.0,36.0,Dropped
+MMLU-Pro,57.0,32.0,25.0,Rose,28.0,29.0,Rose,111.0,54.0,Dropped
+ERQA,68.0,49.0,19.0,Rose,91.0,23.0,Dropped,68.0,0.0,Stable
+MMMU,63.0,42.0,21.0,Rose,43.0,20.0,Rose,103.0,40.0,Dropped
+HealthBench,74.0,52.0,22.0,Rose,110.0,36.0,Dropped,57.0,17.0,Rose
+MCP-Mark,50.0,28.0,22.0,Rose,103.0,53.0,Dropped,47.0,3.0,Rose
+Blink,95.0,87.0,8.0,Rose,105.0,10.0,Dropped,95.0,0.0,Stable
+MultiIF,107.0,103.0,4.0,Rose,107.0,0.0,Stable,107.0,0.0,Stable
+HellaSwag,142.0,155.0,13.0,Dropped,128.0,14.0,Rose,127.0,15.0,Rose
+INCLUDE,118.0,116.0,2.0,Rose,111.0,7.0,Rose,116.0,2.0,Rose
+GDPval,98.0,84.0,14.0,Rose,94.0,4.0,Rose,112.0,14.0,Dropped
+MBPP,129.0,143.0,14.0,Dropped,134.0,5.0,Dropped,117.0,12.0,Rose
+AI2D,132.0,146.0,14.0,Dropped,112.0,20.0,Rose,131.0,1.0,Rose
+RefSpatialBench,99.0,81.0,18.0,Rose,120.0,21.0,Dropped,91.0,8.0,Rose
+CharXiv-Descriptive,134.0,145.0,11.0,Dropped,119.0,15.0,Rose,129.0,5.0,Rose
+IFEval,104.0,86.0,18.0,Rose,74.0,30.0,Rose,128.0,24.0,Dropped
+WinoGrande,135.0,147.0,12.0,Dropped,135.0,0.0,Stable,123.0,12.0,Rose
+WideSearch,92.0,69.0,23.0,Rose,104.0,12.0,Dropped,106.0,14.0,Dropped
+LiveBench,114.0,100.0,14.0,Rose,131.0,17.0,Dropped,109.0,5.0,Rose
+MMLU-ProX,121.0,115.0,6.0,Rose,117.0,4.0,Rose,121.0,0.0,Stable
+HMMT Feb 2025,122.0,118.0,4.0,Rose,89.0,33.0,Rose,139.0,17.0,Dropped
+SysBench,119.0,110.0,9.0,Rose,129.0,10.0,Dropped,114.0,5.0,Rose
+GSM8K,140.0,150.0,10.0,Dropped,126.0,14.0,Rose,132.0,8.0,Rose
+AceBench,133.0,134.0,1.0,Dropped,137.0,4.0,Dropped,122.0,11.0,Rose
+Claw-Eval,110.0,85.0,25.0,Rose,124.0,14.0,Dropped,105.0,5.0,Rose
+SWE-Bench Pro,44.0,14.0,30.0,Rose,73.0,29.0,Dropped,65.0,21.0,Dropped
+SimpleVQA,85.0,51.0,34.0,Rose,108.0,23.0,Dropped,98.0,13.0,Dropped
+RealWorldQA,123.0,113.0,10.0,Rose,122.0,1.0,Rose,126.0,3.0,Dropped
+Hallusion Bench,91.0,54.0,37.0,Rose,118.0,27.0,Dropped,92.0,1.0,Dropped
+FRAMES,124.0,117.0,7.0,Rose,125.0,1.0,Dropped,125.0,1.0,Dropped
+OCRBench,136.0,138.0,2.0,Dropped,127.0,9.0,Rose,137.0,1.0,Dropped
+Finance Agent v1.1,75.0,37.0,38.0,Rose,114.0,39.0,Dropped,80.0,5.0,Dropped
+MMMLU,102.0,76.0,26.0,Rose,78.0,24.0,Rose,133.0,31.0,Dropped
+AA-LCR,100.0,70.0,30.0,Rose,133.0,33.0,Dropped,97.0,3.0,Rose
+VLMsAreBlind,148.0,153.0,5.0,Dropped,140.0,8.0,Rose,145.0,3.0,Rose
+ARC-Challenge,155.0,158.0,3.0,Dropped,147.0,8.0,Rose,146.0,9.0,Rose
+Video-MME,125.0,108.0,17.0,Rose,121.0,4.0,Rose,134.0,9.0,Dropped
+MMCU,152.0,156.0,4.0,Dropped,146.0,6.0,Rose,142.0,10.0,Rose
+MATH-500,137.0,128.0,9.0,Rose,123.0,14.0,Rose,143.0,6.0,Dropped
+NL2Repo,60.0,18.0,42.0,Rose,142.0,82.0,Dropped,49.0,11.0,Rose
+MotionBench,120.0,90.0,30.0,Rose,143.0,23.0,Dropped,118.0,2.0,Rose
+CMATH,156.0,157.0,1.0,Dropped,150.0,6.0,Rose,147.0,9.0,Rose
+BBH,141.0,136.0,5.0,Rose,136.0,5.0,Rose,141.0,0.0,Stable
+MMLU,126.0,106.0,20.0,Rose,116.0,10.0,Rose,140.0,14.0,Dropped
+CRUX-O,138.0,124.0,14.0,Rose,151.0,13.0,Dropped,124.0,14.0,Rose
+LongVideoBench,131.0,114.0,17.0,Rose,144.0,13.0,Dropped,130.0,1.0,Rose
+Video-MMMU,117.0,82.0,35.0,Rose,113.0,4.0,Rose,136.0,19.0,Dropped
+Global PIQA,144.0,129.0,15.0,Rose,138.0,6.0,Rose,148.0,4.0,Dropped
+LongBench-v2,88.0,39.0,49.0,Rose,132.0,44.0,Dropped,104.0,16.0,Dropped
+MMLU-Redux,139.0,122.0,17.0,Rose,130.0,9.0,Rose,152.0,13.0,Dropped
+CMMLU,145.0,130.0,15.0,Rose,145.0,0.0,Stable,149.0,4.0,Dropped
+C-Eval,143.0,123.0,20.0,Rose,141.0,2.0,Rose,151.0,8.0,Dropped
+AIME 2026,146.0,132.0,14.0,Rose,139.0,7.0,Rose,154.0,8.0,Dropped
+MMLU-Global,150.0,149.0,1.0,Rose,152.0,2.0,Dropped,150.0,0.0,Stable
+LOFT(hard retrieval) ≤128K,149.0,142.0,7.0,Rose,155.0,6.0,Dropped,144.0,5.0,Rose
+LVBench,130.0,93.0,37.0,Rose,149.0,19.0,Dropped,135.0,5.0,Dropped
+CountBench,154.0,148.0,6.0,Rose,148.0,6.0,Rose,155.0,1.0,Dropped
+ChartQA,153.0,137.0,16.0,Rose,154.0,1.0,Dropped,153.0,0.0,Stable
+CRUX-I,147.0,105.0,42.0,Rose,157.0,10.0,Dropped,138.0,9.0,Rose
+OmniDocBench1.5 (Lower-Better)(0-1),151.0,120.0,31.0,Rose,153.0,2.0,Dropped,156.0,5.0,Dropped
+DocVQA,158.0,154.0,4.0,Rose,156.0,2.0,Rose,158.0,0.0,Stable
+EgoSchema,157.0,121.0,36.0,Rose,158.0,1.0,Dropped,157.0,0.0,Stable

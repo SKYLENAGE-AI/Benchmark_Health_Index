@@ -1,0 +1,7 @@
+Analysis_Set,Outcome,Method,N,Coefficient,P_Value_Two_Sided,Bootstrap_CI_95_Lower,Bootstrap_CI_95_Upper,Valid_Bootstrap_Resamples,Interpretation
+all_verified_rows,NUsage,Pearson,157,-0.0297233668249,0.711726573234,-0.118486989898,0.0693615462455,10000,Negligible negative association; not statistically distinguishable from zero at the 0.05 level.
+all_verified_rows,NUsage,Spearman,157,0.0201437489143,0.802271145312,-0.133160024187,0.173571378699,10000,Negligible positive association; not statistically distinguishable from zero at the 0.05 level.
+all_verified_rows,SImp,Pearson,157,-0.219244208517,0.00580109371076,-0.328856630476,-0.110812690678,10000,Weak negative association; statistically distinguishable from zero at the 0.05 level.
+all_verified_rows,SImp,Spearman,157,-0.27142475056,0.000584843465937,-0.404776953117,-0.12113954784,10000,Weak negative association; statistically distinguishable from zero at the 0.05 level.
+all_verified_rows,BHI,Pearson,157,-0.403048790182,1.66286722103e-07,-0.512243912173,-0.278246485753,10000,Moderate negative association; statistically distinguishable from zero at the 0.05 level.
+all_verified_rows,BHI,Spearman,157,-0.439639159284,8.37560867209e-09,-0.564069616511,-0.291679801335,10000,Moderate negative association; statistically distinguishable from zero at the 0.05 level.
